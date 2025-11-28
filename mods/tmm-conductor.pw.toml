@@ -1,0 +1,15 @@
+name = "TMM-conductor"
+filename = "tmm_conductor-1.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ekulxam/TMM-conductor/releases/download/1.0.2/tmm_conductor-1.0.2%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "f6f083742b0509b8d86b4327f40b520d08b9b92b1f105108dea351ec7bcf16b7"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "ekulxam/TMM-conductor"
+tag = "1.0.2"

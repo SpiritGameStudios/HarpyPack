@@ -6,6 +6,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
 metafile = true
@@ -58,6 +63,16 @@ metafile = true
 [[files]]
 file = "mods/text-to-voice.pw.toml"
 hash = "dbb84e3fec719a729c9bfdf1230e3bce681f341ab52f07a0c7ede8cd0115a054"
+metafile = true
+
+[[files]]
+file = "mods/tmm-conductor.pw.toml"
+hash = "9afc62e3b2e5d91f1cb019fce2a885f2975e90e34d4aaf57528a6b57f00cdb33"
+metafile = true
+
+[[files]]
+file = "mods/tmm-haunting.pw.toml"
+hash = "f84e4ec884a689cfecef5d771f4a619888e8572e19fd1ffb0911086322b04c00"
 metafile = true
 
 [[files]]
