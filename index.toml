@@ -79,3 +79,7 @@ metafile = true
 file = "mods/tmm-tts.pw.toml"
 hash = "31077ba2a281c64bf433838be6534b8e2b2476a2778dbd5e8f07a6003b6b2a48"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "17a9b86204e69c6a054eba1083b0bce523556e2b893f74bc476208d4e2ad7801"
