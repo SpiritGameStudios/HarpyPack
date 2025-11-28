@@ -1,0 +1,13 @@
+name = "The Last Voyage of the Harpy Express (Mod)"
+filename = "trainmurdermystery-1.2.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoU7Lf7D/versions/XRGlPazJ/trainmurdermystery-1.2.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "6592badf3ad494df65f98892b1132f48b9351931db2445292273158198818b7b62ae807641557e7e319d6fb3212f6668d54d7e69fdb5b5d7eb4151e8507f3f65"
+
+[update]
+[update.modrinth]
+mod-id = "XoU7Lf7D"
+version = "XRGlPazJ"
