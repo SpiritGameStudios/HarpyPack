@@ -121,12 +121,17 @@ metafile = true
 
 [[files]]
 file = "mods/tmm-conductor.pw.toml"
-hash = "9afc62e3b2e5d91f1cb019fce2a885f2975e90e34d4aaf57528a6b57f00cdb33"
+hash = "615b190e399cd3ecfad19e020f5ad341cde69ed0c468d30af821c3eace0b1121"
+metafile = true
+
+[[files]]
+file = "mods/tmm-construct.pw.toml"
+hash = "ef9da77d34b4daf0fc2185cd28728e7cfc0ffac065a5d643a5834ecca0eb9989"
 metafile = true
 
 [[files]]
 file = "mods/tmm-haunting.pw.toml"
-hash = "f84e4ec884a689cfecef5d771f4a619888e8572e19fd1ffb0911086322b04c00"
+hash = "1664bca0a0f2c991c326a40f6d1e0fd62fc4b2e633e30ec763b9fdaabfdc4d6d"
 metafile = true
 
 [[files]]

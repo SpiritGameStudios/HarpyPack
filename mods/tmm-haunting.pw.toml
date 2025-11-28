@@ -1,15 +1,15 @@
 name = "TMM-haunting"
-filename = "tmm_haunting-1.0.2+1.21.1.jar"
+filename = "tmm_haunting-1.0.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ekulxam/TMM-haunting/releases/download/1.0.2/tmm_haunting-1.0.2%2B1.21.1.jar"
+url = "https://github.com/ekulxam/TMM-haunting/releases/download/1.0.3/tmm_haunting-1.0.3%2B1.21.1.jar"
 hash-format = "sha256"
-hash = "66c8d9d28e32ea31a82d915d0a9258a99279736907e166dfdb964edae0929488"
+hash = "e805d79abff04ef84ba8cd483e6c5b6d728790a5aed8894a323488b1dc3829cf"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ekulxam/TMM-haunting"
-tag = "1.0.2"
+tag = "1.0.3"
