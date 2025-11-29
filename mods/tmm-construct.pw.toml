@@ -1,15 +1,15 @@
 name = "tmm_construct"
-filename = "tmm-construct-1.0.9.jar"
+filename = "tmm-construct-1.0.10.jar"
 side = "both"
 
 [download]
-url = "https://github.com/HamaIndustries/tmm_construct/releases/download/1.0.9/tmm-construct-1.0.9.jar"
+url = "https://github.com/HamaIndustries/tmm_construct/releases/download/1.0.10/tmm-construct-1.0.10.jar"
 hash-format = "sha256"
-hash = "af1cb870b9e445489fd4520ff1309b04236f093477a9ddd5a850cdb9feb46ac0"
+hash = "c23aa39b951d9ad2a9eb8b25fa59f912a23c9e9a4beff20a0ae213b99e04849b"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "HamaIndustries/tmm_construct"
-tag = "1.0.9"
+tag = "1.0.10"

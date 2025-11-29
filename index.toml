@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmm-construct.pw.toml"
-hash = "552c42b923883a074a048239bf78bb6c4eddf0d56a2cb294d59336c3d3204ebc"
+hash = "ba364d63bdd0bc420809afd902bcf9e51540dda8be7973b70bc6b290308ea01f"
 metafile = true
 
 [[files]]
