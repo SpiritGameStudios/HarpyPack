@@ -45,6 +45,26 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "f6d1296d15bd9df6f1cd0903c17dcf066fdc2daadf1e550d5a1fbf8789a482de"
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "9d72860b804991371eec905c5e5bc78d860656b23c6891119eaf9498c6bcda41"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/armisteel.pw.toml"
+hash = "98302914d658beb1d9df2a6d71441251aed4f539f1f62edd079644825a38f27e"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "5dde461c1f6c0127ed8f4e4492adec5656af768185f6fde123d04fd303e7dff4"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
 metafile = true
@@ -70,6 +90,21 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "2e705f04feb06d4340c59aebe8430c79a48635f6cd40b5c9f9ea7e4e6500721a"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
 file = "mods/harpy-express-mod.pw.toml"
 hash = "eef7202317af41b2b93026c762be2a89bf7bae1ac98217152f0e13d351c3cb70"
 metafile = true
@@ -85,6 +120,11 @@ hash = "c101256f1378c97c9fc082cd2cebb2f90e358fc6602d11e15e65cc5d535d3528"
 metafile = true
 
 [[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "2aa483960df75b01d3a1e08fcce318e53da714d26b0109463721f8eb6c7e062b"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
@@ -95,6 +135,11 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "6b63d15284f95807dd5dcf19e6c1d0132cbac508426162d8db775a1c3a6a228d"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -102,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/ratatouille.pw.toml"
 hash = "eb971dad4161757c8f054c34459fd13276f6fe1eeb838cdc1b883cc6b9652611"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]

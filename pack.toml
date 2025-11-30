@@ -1,12 +1,12 @@
 name = "The Last Voyage of the Harpy Express (Bombastic Edition)"
 author = "Spirit Studios"
-version = "1.0.5"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "38d1107652d9d6aab216e47a733482fc93fa835be6eb3f0946e2233e378be196"
+hash = "457670e320fb6fc63e4d0300764e25776967ec9e55194d72fa0ca246781f1aab"
 
 [versions]
 fabric = "0.18.1"
