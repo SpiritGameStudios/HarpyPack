@@ -1,15 +1,15 @@
 name = "TMM-TTS"
-filename = "tmm_tts-1.0.3+1.21.1.jar"
+filename = "tmm_tts-1.0.7+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ekulxam/TMM-TTS/releases/download/1.0.3/tmm_tts-1.0.3%2B1.21.1.jar"
+url = "https://github.com/ekulxam/TMM-TTS/releases/download/1.0.7/tmm_tts-1.0.7%2B1.21.1.jar"
 hash-format = "sha256"
-hash = "145d752d120f24df927863ed3c3722d9a9dd2421d66e7e8e2a6c25bcfb32ad2d"
+hash = "ac082ddcf416558e9f920c86c5d6ce09b5c1a282a2967c7a1a7c2b27cdecb170"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "ekulxam/TMM-TTS"
-tag = "1.0.3"
+tag = "1.0.7"

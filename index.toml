@@ -175,12 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-to-voice.pw.toml"
-hash = "dbb84e3fec719a729c9bfdf1230e3bce681f341ab52f07a0c7ede8cd0115a054"
-metafile = true
-
-[[files]]
-file = "mods/tmm-conductor.pw.toml"
-hash = "615b190e399cd3ecfad19e020f5ad341cde69ed0c468d30af821c3eace0b1121"
+hash = "f99ede2cffd3f992e070fbeb6597f82eb748d37a4ca86d2eaed398f7dce91b88"
 metafile = true
 
 [[files]]
@@ -189,13 +184,13 @@ hash = "4613ed00c349204159ba1569a74d9f4986dd4196f5779efa7ed32ade26590366"
 metafile = true
 
 [[files]]
-file = "mods/tmm-haunting.pw.toml"
-hash = "1664bca0a0f2c991c326a40f6d1e0fd62fc4b2e633e30ec763b9fdaabfdc4d6d"
+file = "mods/tmm-tts.pw.toml"
+hash = "42f8b22f30569bab1da70422ed28da7b68cd82f5ff3800da63359f26ec4e7500"
 metafile = true
 
 [[files]]
-file = "mods/tmm-tts.pw.toml"
-hash = "31077ba2a281c64bf433838be6534b8e2b2476a2778dbd5e8f07a6003b6b2a48"
+file = "mods/umbraexpress.pw.toml"
+hash = "291fd3df6fffa6da0643a6bf385cfa032ce982981ff5e15829925353e5de779b"
 metafile = true
 
 [[files]]

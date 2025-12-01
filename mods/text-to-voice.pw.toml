@@ -1,13 +1,13 @@
 name = "Text to Voice"
-filename = "ttvoice-1.0.1+1.21.1.jar"
+filename = "ttvoice-1.0.3+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VzO1F7B7/versions/M89qso01/ttvoice-1.0.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/VzO1F7B7/versions/z4hoVQWg/ttvoice-1.0.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "9e144d7ba19dda72a6fe621ee4094b55fbe335cf5823772b9aa3865aa0c2eb80d193c533c2f0e9dc3b1eb48a1c73a3311e8fc35f08b89376a7a20fa3c9246f40"
+hash = "95e62fb2a0f4a631cdfb2b69705c2e208713c3ec1c4f4193ddd8fb085f620ed603097d09b938c2a64fd0612d2bd98b8919b25c41d7ff0c5edb1b5ccb87780db2"
 
 [update]
 [update.modrinth]
 mod-id = "VzO1F7B7"
-version = "M89qso01"
+version = "z4hoVQWg"
