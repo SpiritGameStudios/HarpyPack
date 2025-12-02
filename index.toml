@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "c101256f1378c97c9fc082cd2cebb2f90e358fc6602d11e15e65cc5d535d3528"
+hash = "fff3bd7b56f7f5866bacf83173ceb9d24c0a2684e4de6f8cb4d7f0173ff78455"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/umbraexpress.pw.toml"
-hash = "fd5e6a25de62d68c4a30350a410d6d7ec293642d9a229a4df7eee42c26f6ccb4"
+hash = "74adc67590a1731ed554a6aefd3f87727d64299842355e56d296a427b5e83498"
 metafile = true
 
 [[files]]
