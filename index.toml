@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/umbraexpress.pw.toml"
-hash = "1513eb214a4b4bb40aeabe6c8e712bcc9f18463bad74064d7dc15bd1a6f82381"
+hash = "ca5d764def67d659eff2ea4794b741318c97939af9364dfd4dd406f73569da08"
 metafile = true
 
 [[files]]
