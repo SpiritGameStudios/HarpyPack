@@ -1,15 +1,15 @@
 name = "UmbraExpress"
-filename = "umbra_express-1.1.4+1.21.1.jar"
+filename = "umbra_express-1.1.5+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/SpiritGameStudios/UmbraExpress/releases/download/1.1.4/umbra_express-1.1.4%2B1.21.1.jar"
+url = "https://github.com/SpiritGameStudios/UmbraExpress/releases/download/1.1.5/umbra_express-1.1.5%2B1.21.1.jar"
 hash-format = "sha256"
-hash = "9b6d354c6fbf4c374f26f6fc06a76754d81f91c5102d3155d005a0d7011b6cd5"
+hash = "fd824df19ad3e79a976f6029e79ce87e56ae7cf048479b3de69bec7d5e5948b2"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "SpiritGameStudios/UmbraExpress"
-tag = "1.1.4"
+tag = "1.1.5"
